@@ -1,2 +1,2 @@
 # o2sensor
-Library fpr handling O2 Sensors for Rebreather with Bluefruit Feather M0
+Library for handling O2 Sensors for Rebreather with Bluefruit Feather M0
