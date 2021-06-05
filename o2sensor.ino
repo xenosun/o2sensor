@@ -1,5 +1,5 @@
 /*   o2sensor Test
- *   (c)2019, Dr.-Ing. Martin Richter, XENOSUN Diving
+ *   (c)2019-2021, Dr.-Ing. Martin Richter, XENOSUN Diving
  * 
  */
 
